@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Bai_3_4_5\bin\Debug\net8.0\Bai_3_4_5.exe
+C:\Users\Admin\source\repos\Bai_3_4_5\bin\Debug\net8.0\Bai_3_4_5.deps.json
+C:\Users\Admin\source\repos\Bai_3_4_5\bin\Debug\net8.0\Bai_3_4_5.runtimeconfig.json
+C:\Users\Admin\source\repos\Bai_3_4_5\bin\Debug\net8.0\Bai_3_4_5.dll
+C:\Users\Admin\source\repos\Bai_3_4_5\bin\Debug\net8.0\Bai_3_4_5.pdb
+C:\Users\Admin\source\repos\Bai_3_4_5\obj\Debug\net8.0\Bai_3_4_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Bai_3_4_5\obj\Debug\net8.0\Bai_3_4_5.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Bai_3_4_5\obj\Debug\net8.0\Bai_3_4_5.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Bai_3_4_5\obj\Debug\net8.0\Bai_3_4_5.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Bai_3_4_5\obj\Debug\net8.0\Bai_3_4_5.dll
+C:\Users\Admin\source\repos\Bai_3_4_5\obj\Debug\net8.0\refint\Bai_3_4_5.dll
+C:\Users\Admin\source\repos\Bai_3_4_5\obj\Debug\net8.0\Bai_3_4_5.pdb
+C:\Users\Admin\source\repos\Bai_3_4_5\obj\Debug\net8.0\Bai_3_4_5.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Bai_3_4_5\obj\Debug\net8.0\ref\Bai_3_4_5.dll
